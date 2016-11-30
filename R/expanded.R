@@ -1,3 +1,4 @@
+# Add a comment in the file to test the GIT structure
 makeExpandedModelMatrix <- function(object) {
   designFactors <- getDesignFactors(object)
   coldata <- colData(object)
